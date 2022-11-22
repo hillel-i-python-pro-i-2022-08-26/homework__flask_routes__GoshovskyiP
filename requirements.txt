@@ -1,0 +1,6 @@
+#Clear code
+black==22.10.0
+
+flake8==5.0.4
+
+pre-commit==2.20.0
