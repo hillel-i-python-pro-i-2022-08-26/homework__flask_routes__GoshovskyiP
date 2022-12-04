@@ -1,8 +1,8 @@
 .PHONY: flask-i-run
 # run flask server
 flask-i-run:
-	@python app.py
+	@flask run
 
-.PHONE: flask-i-purge
+.PHONY: flask-i-purge
 flask-i-purge:
 	@echo Goodbye
